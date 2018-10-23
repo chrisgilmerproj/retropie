@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Tetris.gb</path>
+		<name>Tetris</name>
+		<playcount>1</playcount>
+		<lastplayed>20160918T040556</lastplayed>
+	</game>
+</gameList>

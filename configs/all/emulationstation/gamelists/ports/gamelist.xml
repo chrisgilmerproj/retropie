@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Doom.sh</path>
+		<name>Doom</name>
+		<playcount>4</playcount>
+		<lastplayed>20160917T052002</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario War.sh</path>
+		<name>Super Mario War</name>
+		<playcount>3</playcount>
+		<lastplayed>20160917T052130</lastplayed>
+	</game>
+</gameList>

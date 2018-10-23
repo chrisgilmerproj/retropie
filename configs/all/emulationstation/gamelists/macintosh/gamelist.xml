@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Start.txt</path>
+		<name>Start</name>
+		<playcount>1</playcount>
+		<lastplayed>20160917T051901</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>/home/pi/RetroPie/roms/nes/Bad Dudes.nes</path>
+		<name>Bad Dudes</name>
+		<playcount>1</playcount>
+		<lastplayed>20160916T214908</lastplayed>
+	</game>
+	<game>
+		<path>/home/pi/RetroPie/roms/nes/Contra.nes</path>
+		<name>Contra</name>
+		<playcount>1</playcount>
+		<lastplayed>20160916T214916</lastplayed>
+	</game>
+	<game>
+		<path>/home/pi/RetroPie/roms/nes/Super Mario Bros. 2.nes</path>
+		<name>Super Mario Bros. 2</name>
+		<playcount>1</playcount>
+		<lastplayed>20160916T214953</lastplayed>
+	</game>
+	<game>
+		<path>/home/pi/RetroPie/roms/nes/Super Mario World.nes</path>
+		<name>Super Mario World</name>
+		<playcount>2</playcount>
+		<lastplayed>20160916T220616</lastplayed>
+	</game>
+	<game>
+		<path>./baddudes.zip</path>
+		<name>baddudes</name>
+		<playcount>3</playcount>
+		<lastplayed>20160916T232110</lastplayed>
+	</game>
+	<game>
+		<path>./galaga.zip</path>
+		<name>galaga</name>
+		<playcount>1</playcount>
+		<lastplayed>20160916T231937</lastplayed>
+	</game>
+	<game>
+		<path>./sk8ordie.zip</path>
+		<name>sk8ordie</name>
+		<playcount>2</playcount>
+		<lastplayed>20160916T232213</lastplayed>
+	</game>
+	<game>
+		<path>./Kirby's Adventure (E).nes</path>
+		<name>Kirby's Adventure (E)</name>
+		<playcount>2</playcount>
+		<lastplayed>20160918T034355</lastplayed>
+	</game>
+</gameList>
